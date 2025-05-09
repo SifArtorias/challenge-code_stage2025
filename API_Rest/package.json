@@ -1,0 +1,17 @@
+{
+  "name": "test-api-rest",
+  "version": "1.0.0",
+  "description": "Test suivi d'un tuto pour créer une api rest en Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nathan Vignerie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

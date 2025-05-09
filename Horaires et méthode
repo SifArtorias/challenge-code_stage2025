@@ -1,0 +1,25 @@
+2h : apprentissage javascript syntax
+
+
+
+
+
+
+
+Exercice : Création d’une mini-application web
+Objectif :
+Créer une petite application web en Node.js et Vue.js. Utilise le framework Shadcn pour le front. Utilise clerk.com pour l’authentification. 
+Cette mini application web doit : 
+Permettre à un utilisateur de sign-up / sign-in. 
+Une fois loggé, l’utilisateur doit arriver sur un dashboard qui contient essentiellement une photo de chat. 
+L’utilisateur doit pouvoir créer une “organisation” (= son entreprise) et inviter des collaborateurs. Pour faire cela, déploie simplement la feature pre-built de Clerk (https://clerk.com/b2b-saas) 
+ 
+Evaluation Criteria:
+Ability to understand and use Node and Vue technologies, as well as Shadcn framework and Clerk auth system.
+Creation of a functional and user-friendly interface.
+Proper error handling and exception management.
+Code quality.
+Deliverables:
+The candidate must give access to his/her online web app 
+The candidate must give access to a Github repository with his/her source code
+
